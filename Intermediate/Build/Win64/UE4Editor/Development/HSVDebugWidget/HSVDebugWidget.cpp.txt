@@ -1,0 +1,2 @@
+D:\Unreal\Test\Plugins\HSVDebugWidget\Intermediate\Build\Win64\UE4Editor\Development\HSVDebugWidget\Definitions.HSVDebugWidget.h
+D:\Unreal\Test\Plugins\HSVDebugWidget\Source\HSVDebugWidget\Public\HSVDebugWidget.h

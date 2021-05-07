@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-HSVDebugWidget.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal\Test\Intermediate\Build\Win64\TestEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\Unreal\Test\Plugins\HSVDebugWidget\Intermediate\Build\Win64\UE4Editor\Development\HSVDebugWidget\HSVDebugWidget.cpp.obj"
+"D:\Unreal\Test\Plugins\HSVDebugWidget\Intermediate\Build\Win64\UE4Editor\Development\HSVDebugWidget\Default.rc2.res"
+/OUT:"D:\Unreal\Test\Plugins\HSVDebugWidget\Intermediate\Build\Win64\UE4Editor\Development\HSVDebugWidget\UE4Editor-HSVDebugWidget.lib"
+/INCLUDE:IMPLEMENT_MODULE_HSVDebugWidget
