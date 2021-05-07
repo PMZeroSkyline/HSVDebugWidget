@@ -10,42 +10,127 @@
 >![img](img_00.jpg)
 
 
-> # **"加入一个编辑器面板 实时预览选定相机的HSV画面**
+> ## **"加入一个编辑器面板 实时预览选定相机的HSV画面**
 
-## 使用方法：
+## 安装方法：
 
 1. 点此下载
 
 2. 解压下载好的文件，解压好的文件放在引擎的Plugin文件夹中 
 
-引擎的默认Plugin文件夹为：
-> # **C:\Program Files\Epic Games\UE_4.26\Engine\Plugins**
+    引擎的默认Plugin文件夹为：
+    >  **C:\Program Files\Epic Games\UE_4.26\Engine\Plugins**
+
+3. 确保打开了HSVDebug插件
+
+    ![img](img_11.jpg)  
+
+## 使用方法：
+
+1. 在Content面板的右下角勾选ShowPluginContent
+
+    ![img](img_01.jpg)  
+
+2. 在Conent面板左上角点击图标展开
+
+    ![img](img_02.jpg)  
+
+3. 找到HSVDebugWidget文件夹
+
+    ![img](img_03.jpg)  
+
+4. 右键HSVDebugWidget选择RunEditorUtilityWidget
+
+    ![img](img_04.jpg)  
+
+5. 选择要使用的摄像机
+
+    ![img](img_05.jpg)  
 
 
-3. 在Maya界面上方工具架你应该会看到一个叫DazBones2UE的工具架
+6. 点击AddComponent
 
-4. 直接点击工具架里对应骨骼的按钮即可自动转换（转换为UE4骨骼会要求您解锁Human IK）
+    ![img](img_06.jpg)  
+
+
+7. 加入 Scene Capture Component 2D
+
+    ![img](img_07.jpg)  
+
+8. 选中 Scene Capture Component 2D
+
+    ![img](img_08.jpg)  
+
+9. 设置Texture Target 为 HSVDebugTexture
+
+    ![img](img_09.jpg)  
+
+10. 完成!
+
+    ![img](img_10.jpg)  
+
 
 # 标签
 
-Author: guzhang0@gmail.com
 
-This tool is a tool holder for Maya
+>![img](img_00.jpg)
 
-One-click conversion of Daz skeleton name pose and layer to Unreal
 
-## Installation method.
+> ## **Add an editor panel to preview the HSV screen of a selected camera in real time**
 
->![img](https://raw.githubusercontent.com/PMZeroSkyline/MayaDazBones2UE/main/1.jpg?token=ANXDN53MZ4HUPBDP7Z5Q6BTAHZ5QE)
->
-> # **"shelf_DazBones2UE.mel"**
+## Installation：
 
-## How to use.
+1. Click here to download
 
-1. you need to install *[DazToMaya first (it's free and available in the Daz store)](https://www.daz3d.com/daz-to-maya-bridge)*
+2. Unzip the downloaded file and place the unzipped file in the engine's Plugin folder 
 
-2. import the Daz model into Maya through DazToMaya
+    The default Plugin folder for the engine is：
+    >  **C:\Program Files\Epic Games\UE_4.26\Engine\Plugins**
 
-3. in the Maya interface at the top of the tool shelf you should see a tool shelf called DazBones2UE
+3. Make sure the HSVDebug plugin is turned on
 
-4. Click the button corresponding to the bones in the tool holder to automatically convert (converting to UE4 bones will require you to unlock Human IK)
+    ![img](img_11.jpg)  
+
+## 使用方法：
+
+1. Check ShowPluginContent in the bottom right corner of the Content panel
+
+    ![img](img_01.jpg)  
+
+2. Click the icon in the top left corner of the Conent panel to expand
+
+    ![img](img_02.jpg)  
+
+3. Find the HSVDebugWidget folder
+
+    ![img](img_03.jpg)  
+
+4. Find HSVDebugWidget folder right click HSVDebugWidget and select RunEditorUtilityWidget
+
+    ![img](img_04.jpg)  
+
+5. Select the camera to be used
+
+    ![img](img_05.jpg)  
+
+
+6. Click AddComponent
+
+    ![img](img_06.jpg)  
+
+
+7. Add Scene Capture Component 2D
+
+    ![img](img_07.jpg)  
+
+8. Check the Scene Capture Component 2D
+
+    ![img](img_08.jpg)  
+
+9. Set Texture Target to HSVDebugTexture
+
+    ![img](img_09.jpg)  
+
+10. Done!
+
+    ![img](img_10.jpg)  
