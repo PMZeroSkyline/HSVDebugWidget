@@ -13,8 +13,8 @@
 > ## **"加入一个编辑器面板 实时预览选定相机的HSV画面**
 
 ## 安装方法：
-
-1. 点此下载
+ 
+1. > # [点此下载](https://github.com/PMZeroSkyline/HSVDebugWidget/archive/refs/heads/main.zip)
 
 2. 解压下载好的文件，解压好的文件放在引擎的Plugin文件夹中 
 
@@ -78,9 +78,11 @@
 
 > ## **Add an editor panel to preview the HSV screen of a selected camera in real time**
 
-## Installation：
+## Installation:
 
-1. Click here to download
+1. > # [Click here to download](https://github.com/PMZeroSkyline/HSVDebugWidget/archive/refs/heads/main.zip)
+
+
 
 2. Unzip the downloaded file and place the unzipped file in the engine's Plugin folder 
 
@@ -91,7 +93,7 @@
 
     ![img](img_11.jpg)  
 
-## 使用方法：
+## How to use:
 
 1. Check ShowPluginContent in the bottom right corner of the Content panel
 
