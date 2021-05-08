@@ -69,6 +69,14 @@
 
     ![img](img_10.jpg)  
 
+### *本软件为一人开发 任何人都可以免费使用 没有广告 以开源 [点我下载我的其它免费应用](https://pmzeroskyline.github.io/FreeApps/)*
+
+由 [guzhang0@gamil.com](https://github.com/PMZeroSkyline) 提供支持 欢迎错误反馈
+
+# ![ReNamer](HSVDebugIcon.png)  请我喝杯咖啡 ♥：
+![ReNamer](3.jpg)
+
+
 
 # 标签
 
@@ -136,3 +144,11 @@
 10. Done!
 
     ![img](img_10.jpg)  
+
+### *This software is developed by one person and is free for anyone to use without ads and is open source [click me to download my other free apps](https://pmzeroskyline.github.io/FreeApps/)*
+
+Powered by [guzhang0@gamil.com](https://github.com/PMZeroSkyline) Welcome error feedback
+
+# ![ReNamer](HSVDebugIcon.png)  Buy me a cup of coffee ♥：
+![ReNamer](3.jpg)
+
