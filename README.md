@@ -73,8 +73,6 @@
 
 由 [guzhang0@gamil.com](https://github.com/PMZeroSkyline) 提供支持 欢迎错误反馈
 
-# ![ReNamer](HSVDebugIcon.png)  请我喝杯咖啡 ♥：
-![ReNamer](3.jpg)
 
 
 
@@ -149,6 +147,5 @@
 
 Powered by [guzhang0@gamil.com](https://github.com/PMZeroSkyline) Welcome error feedback
 
-# ![ReNamer](HSVDebugIcon.png)  Buy me a cup of coffee ♥：
-![ReNamer](3.jpg)
+
 
